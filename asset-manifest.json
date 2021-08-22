@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Vinayadav2016/todo_list_clone/static/css/main.b6c40923.chunk.css",
+    "main.js": "/Vinayadav2016/todo_list_clone/static/js/main.b06bf688.chunk.js",
+    "main.js.map": "/Vinayadav2016/todo_list_clone/static/js/main.b06bf688.chunk.js.map",
+    "runtime-main.js": "/Vinayadav2016/todo_list_clone/static/js/runtime-main.6ce97bc7.js",
+    "runtime-main.js.map": "/Vinayadav2016/todo_list_clone/static/js/runtime-main.6ce97bc7.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/Vinayadav2016/todo_list_clone/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.db4798a7.chunk.js": "/Vinayadav2016/todo_list_clone/static/js/2.db4798a7.chunk.js",
+    "static/js/2.db4798a7.chunk.js.map": "/Vinayadav2016/todo_list_clone/static/js/2.db4798a7.chunk.js.map",
+    "index.html": "/Vinayadav2016/todo_list_clone/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/Vinayadav2016/todo_list_clone/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.b6c40923.chunk.css.map": "/Vinayadav2016/todo_list_clone/static/css/main.b6c40923.chunk.css.map",
+    "static/js/2.db4798a7.chunk.js.LICENSE.txt": "/Vinayadav2016/todo_list_clone/static/js/2.db4798a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce97bc7.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.db4798a7.chunk.js",
+    "static/css/main.b6c40923.chunk.css",
+    "static/js/main.b06bf688.chunk.js"
+  ]
+}
